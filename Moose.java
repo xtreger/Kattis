@@ -6,7 +6,7 @@ public class Moose
         Scanner scan = new Scanner(System.in);
         int l = scan.nextInt();
         int r = scan.nextInt();
-        if (l==0 && r==0 )
+        if (l==0 && r==0 ) 
         {
             System.out.println("Not a moose");
         }else if (l>r)
